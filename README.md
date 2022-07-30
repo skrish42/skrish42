@@ -9,8 +9,8 @@ skrish42/skrish42 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<h1 align="center">Howdy👋, I'm Krishna Kumar</h1>
+<br>
+<h1 align="center">Howdy👋, It's Krishna Kumar</h1>
 <h3 align="center">A great passionate for learning and sharing my knowledge with others in a way that's as public as possible.</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
