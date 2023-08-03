@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skrish42
-- 👀 I’m interested in Deep Learning and Web development
-- 🌱 I’m currently learning React, and DL models
+- 👀 I’m interested in Web development, OOPs and Database Management System
+- 🌱 I’m currently learning React, and planning to learn flutter
 - 💞️ I’m looking to collaborate on any web development projects 
 - 📫 How to reach me www.linkedin.com/in/krishna-kumar-s-3bb9661ba
 
